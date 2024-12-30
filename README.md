@@ -4,7 +4,7 @@ Did you know it was even used by your great-great-great-grandfather? 🧓✨ Yea
 
 # 🚀 How to Use
 Have you heard of Python, by any chance?
-Run the script and follow the instructions.
+Run the script. Then type. Then get amazed.
 
 # 🤔 Why Is It So Cool?
 Generates random numbers like a boss.
